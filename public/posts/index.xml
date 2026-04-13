@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Things That I Love</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Things That I Love</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chi sono</title>
+      <link>http://localhost:1313/posts/chi-sono/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chi-sono/</guid>
+      <description>&lt;p&gt;Chi sono&lt;/p&gt;
+&lt;h2 id=&#34;gonza-come-identità&#34;&gt;Gonza come identità&lt;/h2&gt;
+&lt;p&gt;Ciao!
+Io sono Gonza, o meglio mi chiamo Gabriele Limache e come secondo nome faccio Gonzalo, e nel tempo la versione abbreviata di quest&amp;rsquo;ultimo è diventato il modo in cui tutti i miei amici mi chiamano.&lt;/p&gt;
+&lt;p&gt;In questo momento, mentre sto scrivendo, ho 20 anni e vivo sul Lago Maggiore, anche se faccio il pendolare praticamente tutti i giorni andando a Milano per studiare.
+Studio Data Analysis in un ITS a Milano per l&amp;rsquo;appunto, è come una seconda vita ma molto spesso i due percorsi si incontrano, tra informatica e musica. soprattutto per un tastierista.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

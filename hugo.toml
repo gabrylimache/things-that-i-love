@@ -1,0 +1,24 @@
+baseURL = "https://gabbrifibra.github.io/"
+languageCode = "it-it"
+title = "Things That I Love"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {Title = "Ciao! 👋", Content = "Benvenuto nel mio blog"}
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "Chi sono"
+    url = "/about/"
+    weight = 2
+
+[server]
+  bind = "0.0.0.0"
+  
