@@ -1,8 +1,9 @@
 +++
 title = 'Lo Strumento'
-date = 2025-04-13
+date = 2026-04-13
 draft = false
 hideFromHomePage = true
+weight = 2
 +++
 
 Pur avendo iniziato il percorso musicale fin da piccolo, il pianoforte non è stata la prima scelta: ho infatti cantato per qualche anno nel coro delle voci bianche della mia città, per poi provare la chitarra, e solo infine, quando ormai avevo capito che entrambi non facevano per me, provai lezioni di piano.

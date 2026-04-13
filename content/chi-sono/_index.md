@@ -1,6 +1,6 @@
 +++
 title = 'Chi sono'
-date = 2025-04-11
+date = 2026-04-11
 draft = false
 tags = []
 hideFromHomePage = true

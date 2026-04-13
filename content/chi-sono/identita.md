@@ -1,8 +1,9 @@
 +++
 title = 'Gonza come identità'
-date = 2025-04-13
+date = 2026-04-13
 draft = false
 hideFromHomePage = true
+weight = 1
 +++
 
 Ciao!

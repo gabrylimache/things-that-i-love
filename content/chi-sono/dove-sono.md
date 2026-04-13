@@ -1,8 +1,9 @@
 +++
 title = 'Dove sono'
-date = 2025-04-13
+date = 2026-04-13
 draft = false
 hideFromHomePage = true
+weight = 4
 +++
 
 In questo momento sono in un periodo pienissimo, ma non mi dispiace: cerco di destreggiarmi tra studio musicale e professionale, imparando cose nuove sui due fronti, e come in questo caso, sperimentando e cercando di conciliare il tutto, anche se pubblicare sul web non è proprio la parte centrale del mio percorso di studi.

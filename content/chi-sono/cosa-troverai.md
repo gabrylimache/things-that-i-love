@@ -1,8 +1,9 @@
 +++
 title = 'Cosa troverai'
-date = 2025-04-13
+date = 2026-04-13
 draft = false
 hideFromHomePage = true
+weight = 5
 +++
 
 Inizialmente pensavo di utilizzare questo spazio per un esercizio pratico per un corso che seguo, poi mi è venuta in mente l'idea di creare un vero blog — più che altro per me stesso, così da poter tornare qua e riguardare ciò che ho scritto ogni volta che voglio.
