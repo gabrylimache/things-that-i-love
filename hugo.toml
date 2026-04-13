@@ -19,6 +19,10 @@ theme = "PaperMod"
     name = "Chi sono"
     url = "/chi-sono/"
     weight = 2
+  [[menu.main]]
+    name = "Patches"
+    url = "/patches/"
+    weight = 3
 
 [caches]
   [caches.images]
