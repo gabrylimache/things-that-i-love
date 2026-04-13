@@ -44,12 +44,43 @@ Mi definisco ufficialmente un tastierista più che pianista, anche per evitare e
 ## I Generi
 
 Durante quei 4 anni di leggerezza iniziali, studiavo classica, ovviamente fino ad un certo punto anche perchè dovevo imparare le basi ancora ed ero un ragazzino svogliato.
-Quando mi svegliai, la voglia di suonare musica classica passò molto in fretta, forse anche per creare distacco tra i due atteggiamenti. Adesso la ascolto occasionalmente, non sono un appassionato ed apprezzo quel mondo, ma suonarla non fa più al caso mio.
+
+Quando finalmente capii che era il mio strumento, la voglia di suonare musica classica passò molto in fretta, forse anche per creare distacco tra i due atteggiamenti. 
+Adesso la ascolto occasionalmente, non sono un appassionato ed apprezzo quel mondo, ma suonarla non fa più al caso mio.
 
 Durante il resto del mio percorso mi sono sempre trovato a fare Rock/Pop, avendo anche una band dove scrivevamo inediti, era bello, ma ancora non avevo trovato il mio, anche se il genere lo suono volentieri, soprattutto con i progetti a cui partecipo adesso.
 
-Infine, solo 2 anni fa, mi iniziai ad interessare alla musica jazz
+Infine, solo 2 anni fa, mi iniziai ad interessare alla musica jazz, passando poi ad ascoltare anche funk e fusion, prendendo spesso come riferimento Herbie Hancock, che mi ha poi spostato ai generi più elettronici come l'album *Head Hunters*, che grazie al sound più moderno mi ha ancora più incuriosito riguardo ai sintetizzatori, portandomi a studiare la sintesi sottrattiva ed, a grandi linee, anche la sintesi FM.
+
+Poi mi sono spostato in un mondo più tranquillo, il soul e subito dopo il neo-soul, che è attualmente il genere che ascolto di più, trovandomi in artisti come D'Angelo, J Dilla e qualche altro dei Soulquarians. Durante quel periodo, ho anche trovato l'artista al quale ora aspiro in termini di sound e modalità di pensiero riguardo alla teoria musicale, oltre che alla tecnica.
+
+Parlo di Kiefer, un tastierista che più che canzoni crea beat, brani strumentali prodotti da lui stesso nel quale la relazione tra accordi e melodie è messa in continua discussione a mio parere, il che rende la melodia e le improvvisazioni in ogni canzone un viaggio nuovo interessantissimo.
+
+Avrò modo di parlarne meglio in futuro, dato che fa molti live con il suo trio, e spero che venga anche in Europa ma essendo il genere ed il mercato quello che è, dubito fortemente, ma non si sa mai!
 
 ## Dove sono
 
+In questo momento sono in un periodo pienissimo, ma non mi dispiace, cerco di destreggiarmi tra studio musicale e professionale, imparando cose nuove sui due fronti, e come in questo caso, sperimentando e cercando di conciliare il tutto, anche se pubblicare sul web non è proprio la parte centrale del mio percorso di studi.
+
+Non mi reputo un fenomeno ne un tastierista professionista, anzi, so che ho molto da imparare e cerco di migliorare ogni giorni, sapendo che c'è gente messa molto meglio di me in tutti gli ambiti. Cerco di dare il mio contributo in ogni progetto a cui faccio parte, dando il meglio di me il più spesso possibile, suono da molto, ma devo studiare ancora di più se voglio rendere della musica la mia vita, che è ciò a cui aspiro.
+
+D'altra parte, viene spontanea la domanda: "Perchè allora non studi solo musica?", il fatto è che l'informatica è un'altra mia passione che intendo coltivare, e diciamo che con meno sforzo (almeno per me) si ottengono risultati più in fretta, quindi voglio optare per ad un bel lavoro tranquillo in questo campo (la Data Analysis) così da riuscire a conciliare la musica prima con tutto il tempo libero a disposizione, diventando un professionista. Sono sicuro di riuscire a gestire le due cose e l'idea mi piace molto, perchè mi sento legato ad entrambe e spesso le conoscenze (anche trasversali) sono molto coerenti tra di loro, il che mi aiuta a non impazzire. 
+
 ## Cosa troverai
+
+Inizialmente pensavo di utilizzare questo spazio per un esercizio pratico per un corso che seguo, poi mi è venuta in mente l'idea di creare un vero blog, più che altro per me stesso, così da poter tornare qua e riguardare ciò che ho scritto ogni volta che voglio.
+
+Parlerò di molte cose, tutto legato alla musica o quasi, nello specifico pensavo a:
+
+- Canzoni, album o artisti che mi interessano
+- Tastiere, sintetizzatori e funzionalità
+- I progetti a cui faccio parte, e come crescono
+
+Ed infine, quello che mi ha convinto del fatto che tutto questo mi servisse: le Patch delle mie tastiere.
+Invatti voglio includere:
+
+- tutte le patch che creo
+- come usarle
+- come modificarle in live
+
+Tutto questo nella sezione "Patches" di questo blog.
