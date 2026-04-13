@@ -16,9 +16,5 @@ theme = "PaperMod"
     weight = 1
   [[menu.main]]
     name = "Chi sono"
-    url = "/about/"
+    url = "/posts/chi-sono/"
     weight = 2
-
-[server]
-  bind = "0.0.0.0"
-  
