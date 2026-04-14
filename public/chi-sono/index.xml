@@ -1,63 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Chi sono on Things That I Love</title>
-    <link>http://localhost:1313/chi-sono/</link>
-    <description>Recent content in Chi sono on Things That I Love</description>
-    <generator>Hugo</generator>
-    <language>it-it</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/chi-sono/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gonza come identità</title>
-      <link>http://localhost:1313/chi-sono/identita/</link>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chi-sono/identita/</guid>
-      <description>&lt;p&gt;Ciao!
-Io sono Gonza, o meglio mi chiamo Gabriele Limache ed il mio secondo nome è Gonzalo, e nel tempo la versione abbreviata di quest&amp;rsquo;ultimo è diventato il modo in cui tutti i miei amici mi chiamano.&lt;/p&gt;
-&lt;p&gt;In questo momento, mentre sto scrivendo, ho 20 anni e vivo sul Lago Maggiore, anche se faccio il pendolare praticamente tutti i giorni andando a Milano per studiare.
-Oltre a suonare, studio Data Analysis in un ITS a Milano per l&amp;rsquo;appunto, è come una seconda vita ma molto spesso i due percorsi si incontrano, tra informatica e musica, soprattutto per un tastierista.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lo Strumento</title>
-      <link>http://localhost:1313/chi-sono/strumento/</link>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chi-sono/strumento/</guid>
-      <description>&lt;p&gt;Pur avendo iniziato il percorso musicale fin da piccolo, il pianoforte non è stata la prima scelta: ho infatti cantato per qualche anno nel coro delle voci bianche della mia città, per poi provare la chitarra, e solo infine, quando ormai avevo capito che entrambi non facevano per me, provai lezioni di piano.&lt;/p&gt;
-&lt;p&gt;I primi quattro anni non sono stati il massimo, mi sono sicuramente serviti per capire cosa mi piaceva e cosa no, ma tra il poco impegno ed altre problematiche, non ho mai dato più del minimo necessario.
-Fu solo quando iniziai le superiori che mi scattò la scintilla.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Generi</title>
-      <link>http://localhost:1313/chi-sono/generi/</link>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chi-sono/generi/</guid>
-      <description>&lt;p&gt;Durante quei 4 anni di leggerezza iniziali studiavo classica, ovviamente fino ad un certo punto, anche perché dovevo imparare le basi ancora ed ero un ragazzino svogliato.&lt;/p&gt;
-&lt;p&gt;Quando finalmente capii che era il mio strumento, la voglia di suonare musica classica passò molto in fretta, forse anche per creare distacco tra i due atteggiamenti.
-Adesso la ascolto occasionalmente: non sono un appassionato ed apprezzo quel mondo, ma suonarla non fa più al caso mio.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dove sono</title>
-      <link>http://localhost:1313/chi-sono/dove-sono/</link>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chi-sono/dove-sono/</guid>
-      <description>&lt;p&gt;In questo momento sono in un periodo pienissimo, ma non mi dispiace: cerco di destreggiarmi tra studio musicale e professionale, imparando cose nuove sui due fronti, e come in questo caso, sperimentando e cercando di conciliare il tutto, anche se pubblicare sul web non è proprio la parte centrale del mio percorso di studi.&lt;/p&gt;
-&lt;p&gt;Non mi reputo un fenomeno né un tastierista professionista, anzi, so che ho molto da imparare e cerco di migliorare ogni giorno, sapendo che c&amp;rsquo;è gente messa molto meglio di me in tutti gli ambiti. Cerco di dare il mio contributo in ogni progetto a cui faccio parte, dando il meglio di me il più spesso possibile — suono da molto, ma devo studiare ancora di più se voglio rendere della musica la mia vita, che è ciò a cui aspiro.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cosa troverai</title>
-      <link>http://localhost:1313/chi-sono/cosa-troverai/</link>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chi-sono/cosa-troverai/</guid>
-      <description>&lt;p&gt;Inizialmente pensavo di utilizzare questo spazio per un esercizio pratico per un corso che seguo, poi mi è venuta in mente l&amp;rsquo;idea di creare un vero blog — più che altro per me stesso, così da poter tornare qua e riguardare ciò che ho scritto ogni volta che voglio.&lt;/p&gt;
-&lt;p&gt;Parlerò di molte cose, tutto legato alla musica o quasi, nello specifico:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Canzoni, album o artisti che mi interessano&lt;/li&gt;
-&lt;li&gt;Tastiere, sintetizzatori e funzionalità&lt;/li&gt;
-&lt;li&gt;I progetti a cui faccio parte, e come crescono&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ed infine, quello che mi ha convinto del fatto che tutto questo mi servisse: le &lt;strong&gt;Patch&lt;/strong&gt; delle mie tastiere.
-Infatti voglio includere:&lt;/p&gt;</description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chi sono on Tastierazze</title>
+        <link>http://localhost:1313/tastierazze/chi-sono/</link>
+        <description>Recent content in Chi sono on Tastierazze</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>it-it</language>
+        <lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tastierazze/chi-sono/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Gonza come identità</title>
+            <link>http://localhost:1313/tastierazze/chi-sono/identita/</link>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tastierazze/chi-sono/identita/</guid>
+            <description>&lt;p&gt;Ciao!&#xA;Io sono Gonza, o meglio mi chiamo Gabriele Limache ed il mio secondo nome è Gonzalo, e nel tempo la versione abbreviata di quest&amp;rsquo;ultimo è diventato il modo in cui tutti i miei amici mi chiamano.&lt;/p&gt;&#xA;&lt;p&gt;In questo momento, mentre sto scrivendo, ho 20 anni e vivo sul Lago Maggiore, anche se faccio il pendolare praticamente tutti i giorni andando a Milano per studiare.&#xA;Oltre a suonare, studio Data Analysis in un ITS a Milano per l&amp;rsquo;appunto, è come una seconda vita ma molto spesso i due percorsi si incontrano, tra informatica e musica, soprattutto per un tastierista.&lt;/p&gt;&#xA;&lt;p&gt;Sono sempre stato un ragazzo introverso, forse è anche quello il motivo della scelta del mio strumento, che al posto di una chitarra elettrica o di una batteria fa molta meno scena, pur avendo generi e momenti in cui si è al centro dell&amp;rsquo;attenzione.&lt;/p&gt;&#xA;&lt;p&gt;Al contrario però, non sono sempre stato &amp;ldquo;Gonza&amp;rdquo;: questo infatti è un nome nato verso l&amp;rsquo;inizio delle mie superiori, quando una mia amica iniziò a chiamarmi così quasi per puro caso. Mi piaceva come nome, e così praticamente tutti quanti iniziarono a chiamarmi in tal modo.&lt;/p&gt;&#xA;&lt;p&gt;Dopo un po&amp;rsquo; capii che forse potevo trattare questa cosa come una sorta di &amp;ldquo;rinascita&amp;rdquo;, e senza rendermene conto cambiai leggermente personalità, diventando più estroverso quasi automaticamente.&#xA;Ora lo uso praticamente come nome primario, ma in realtà spesso mi riferisco a Gonza come il mio nome d&amp;rsquo;arte — quasi una seconda identità che appare quando mi serve.&lt;/p&gt;&#xA;&lt;p&gt;Gonza infatti si concentra molto sul percorso musicale, soprattutto adesso che tutto si sta evolvendo con i progetti che seguo e le persone con cui suono.&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Lo Strumento</title>
+            <link>http://localhost:1313/tastierazze/chi-sono/strumento/</link>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tastierazze/chi-sono/strumento/</guid>
+            <description>&lt;p&gt;Pur avendo iniziato il percorso musicale fin da piccolo, il pianoforte non è stata la prima scelta: ho infatti cantato per qualche anno nel coro delle voci bianche della mia città, per poi provare la chitarra, e solo infine, quando ormai avevo capito che entrambi non facevano per me, provai lezioni di piano.&lt;/p&gt;&#xA;&lt;p&gt;I primi quattro anni non sono stati il massimo, mi sono sicuramente serviti per capire cosa mi piaceva e cosa no, ma tra il poco impegno ed altre problematiche, non ho mai dato più del minimo necessario.&#xA;Fu solo quando iniziai le superiori che mi scattò la scintilla.&lt;/p&gt;&#xA;&lt;p&gt;Da quel momento mi sono impegnato sempre di più, sperimentando con gruppi forniti dalla mia scuola di musica le tecniche e la teoria imparata a lezione.&lt;/p&gt;&#xA;&lt;p&gt;Col tempo mi appassionai più alla tastiera che al pianoforte, cercando di trovare modi per rendere interessanti i miei suoni e di replicare quelli di varie canzoni sulla prima vera tastiera che ho provato, una &lt;strong&gt;Yamaha MODX 6&lt;/strong&gt;, presa dalla scuola di musica per tutte le band e i tastieristi.&lt;/p&gt;&#xA;&lt;p&gt;Ora mi piace replicare suoni di varie canzoni con le mie tastiere, che cerco di sfruttare al massimo per tutti i progetti che seguo. Ho infatti preso ormai un anno fa una &lt;strong&gt;Yamaha CK88&lt;/strong&gt; come prima vera tastiera, e devo dire che sono più che soddisfatto dei risultati.&lt;/p&gt;&#xA;&lt;p&gt;Recentemente però sentivo il bisogno di imparare molto meglio il mondo dei sintetizzatori, e dopo varie considerazioni ho optato per la &lt;strong&gt;Nord Wave 2&lt;/strong&gt;, che sicuramente è un po&amp;rsquo; &amp;ldquo;overkill&amp;rdquo; per il mio livello attuale, ma sono consapevole anche che una tastiera come quella insieme alla Yamaha mi bastano per coprire anni ed anni di progetti musicali — quindi una grande spesa per un lungo tempo.&lt;/p&gt;&#xA;&lt;p&gt;Per ora con la Nord ci sto ancora facendo conoscenza, imparando tramite discussioni e video online il mondo dei sintetizzatori, e sperimentando il più possibile cercando di inseguire il mondo del Sound Design.&lt;/p&gt;&#xA;&lt;p&gt;Mi definisco ufficialmente un tastierista più che pianista, anche per evitare eventuali aspettative sui generi che suonerò se mi chiedono di sentire qualcosa in giro.&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>I Generi</title>
+            <link>http://localhost:1313/tastierazze/chi-sono/generi/</link>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tastierazze/chi-sono/generi/</guid>
+            <description>&lt;p&gt;Durante quei 4 anni di leggerezza iniziali studiavo classica, ovviamente fino ad un certo punto, anche perché dovevo imparare le basi ancora ed ero un ragazzino svogliato.&lt;/p&gt;&#xA;&lt;p&gt;Quando finalmente capii che era il mio strumento, la voglia di suonare musica classica passò molto in fretta, forse anche per creare distacco tra i due atteggiamenti.&#xA;Adesso la ascolto occasionalmente: non sono un appassionato ed apprezzo quel mondo, ma suonarla non fa più al caso mio.&lt;/p&gt;&#xA;&lt;p&gt;Durante il resto del mio percorso mi sono sempre trovato a fare Rock/Pop, avendo anche una band dove scrivevamo inediti — era bello, ma ancora non avevo trovato il mio, anche se il genere lo suono volentieri, soprattutto con i progetti a cui partecipo adesso.&lt;/p&gt;&#xA;&lt;p&gt;Infine, solo 2 anni fa, mi iniziai ad interessare alla musica jazz, passando poi ad ascoltare anche funk e fusion, prendendo spesso come riferimento &lt;strong&gt;Herbie Hancock&lt;/strong&gt;, che mi ha poi spostato ai generi più elettronici come l&amp;rsquo;album &lt;em&gt;Head Hunters&lt;/em&gt;, che grazie al sound più moderno mi ha ancora più incuriosito riguardo ai sintetizzatori, portandomi a studiare la sintesi sottrattiva ed, a grandi linee, anche la sintesi FM.&lt;/p&gt;&#xA;&lt;p&gt;Poi mi sono spostato in un mondo più tranquillo, il soul e subito dopo il neo-soul, che è attualmente il genere che ascolto di più, trovandomi in artisti come &lt;strong&gt;D&amp;rsquo;Angelo&lt;/strong&gt;, &lt;strong&gt;J Dilla&lt;/strong&gt; e qualche altro dei Soulquarians. Durante quel periodo, ho anche trovato l&amp;rsquo;artista al quale ora aspiro in termini di sound e modalità di pensiero riguardo alla teoria musicale, oltre che alla tecnica.&lt;/p&gt;&#xA;&lt;p&gt;Parlo di &lt;strong&gt;Kiefer&lt;/strong&gt;, un tastierista che più che canzoni crea beat — brani strumentali prodotti da lui stesso nel quale la relazione tra accordi e melodie è messa in continua discussione a mio parere, il che rende la melodia e le improvvisazioni in ogni canzone un viaggio nuovo interessantissimo.&lt;/p&gt;&#xA;&lt;p&gt;Avrò modo di parlarne meglio in futuro, dato che fa molti live con il suo trio, e spero che venga anche in Europa — ma essendo il genere ed il mercato quello che è, dubito fortemente, ma non si sa mai!&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Dove sono</title>
+            <link>http://localhost:1313/tastierazze/chi-sono/dove-sono/</link>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tastierazze/chi-sono/dove-sono/</guid>
+            <description>&lt;p&gt;In questo momento sono in un periodo pienissimo, ma non mi dispiace: cerco di destreggiarmi tra studio musicale e professionale, imparando cose nuove sui due fronti, e come in questo caso, sperimentando e cercando di conciliare il tutto, anche se pubblicare sul web non è proprio la parte centrale del mio percorso di studi.&lt;/p&gt;&#xA;&lt;p&gt;Non mi reputo un fenomeno né un tastierista professionista, anzi, so che ho molto da imparare e cerco di migliorare ogni giorno, sapendo che c&amp;rsquo;è gente messa molto meglio di me in tutti gli ambiti. Cerco di dare il mio contributo in ogni progetto a cui faccio parte, dando il meglio di me il più spesso possibile — suono da molto, ma devo studiare ancora di più se voglio rendere della musica la mia vita, che è ciò a cui aspiro.&lt;/p&gt;&#xA;&lt;p&gt;D&amp;rsquo;altra parte, viene spontanea la domanda: &lt;em&gt;&amp;ldquo;Perché allora non studi solo musica?&amp;rdquo;&lt;/em&gt; — il fatto è che l&amp;rsquo;informatica è un&amp;rsquo;altra mia passione che intendo coltivare, e diciamo che con meno sforzo (almeno per me) si ottengono risultati più in fretta, quindi voglio optare per un bel lavoro tranquillo in questo campo (la Data Analysis) così da riuscire a conciliare la musica con tutto il tempo libero a disposizione, diventando un professionista. Sono sicuro di riuscire a gestire le due cose e l&amp;rsquo;idea mi piace molto, perché mi sento legato ad entrambe — e spesso le conoscenze, anche trasversali, sono molto coerenti tra di loro, il che mi aiuta a non impazzire.&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Cosa troverai</title>
+            <link>http://localhost:1313/tastierazze/chi-sono/cosa-troverai/</link>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tastierazze/chi-sono/cosa-troverai/</guid>
+            <description>&lt;p&gt;Inizialmente pensavo di utilizzare questo spazio per un esercizio pratico per un corso che seguo, poi mi è venuta in mente l&amp;rsquo;idea di creare un vero blog — più che altro per me stesso, così da poter tornare qua e riguardare ciò che ho scritto ogni volta che voglio.&lt;/p&gt;&#xA;&lt;p&gt;Parlerò di molte cose, tutto legato alla musica o quasi, nello specifico:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Canzoni, album o artisti che mi interessano&lt;/li&gt;&#xA;&lt;li&gt;Tastiere, sintetizzatori e funzionalità&lt;/li&gt;&#xA;&lt;li&gt;I progetti a cui faccio parte, e come crescono&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ed infine, quello che mi ha convinto del fatto che tutto questo mi servisse: le &lt;strong&gt;Patch&lt;/strong&gt; delle mie tastiere.&#xA;Infatti voglio includere:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tutte le patch che creo&lt;/li&gt;&#xA;&lt;li&gt;Come usarle&lt;/li&gt;&#xA;&lt;li&gt;Come modificarle in live&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tutto questo nella sezione &lt;strong&gt;Patches&lt;/strong&gt; di questo blog.&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>

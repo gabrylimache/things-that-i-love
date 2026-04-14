@@ -2,36 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/chi-sono/identita/</loc>
+    <loc>http://localhost:1313/tastierazze/chi-sono/identita/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chi-sono/strumento/</loc>
+    <loc>http://localhost:1313/tastierazze/chi-sono/strumento/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chi-sono/generi/</loc>
+    <loc>http://localhost:1313/tastierazze/chi-sono/generi/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chi-sono/dove-sono/</loc>
+    <loc>http://localhost:1313/tastierazze/chi-sono/dove-sono/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chi-sono/cosa-troverai/</loc>
+    <loc>http://localhost:1313/tastierazze/chi-sono/cosa-troverai/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patches/</loc>
+    <loc>http://localhost:1313/tastierazze/patches/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/tastierazze/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chi-sono/</loc>
+    <loc>http://localhost:1313/tastierazze/chi-sono/</loc>
     <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1o_post_prova/</loc>
+    <loc>http://localhost:1313/tastierazze/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tastierazze/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tastierazze/tags/</loc>
   </url>
 </urlset>
