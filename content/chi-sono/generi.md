@@ -1,6 +1,6 @@
 +++
 title = 'I generi'
-date = 2026-04-13
+date = 2026-04-12
 draft = false
 hideFromHomePage = true
 weight = 3

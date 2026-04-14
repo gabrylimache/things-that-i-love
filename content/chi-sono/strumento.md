@@ -1,6 +1,6 @@
 +++
 title = 'Lo strumento'
-date = 2026-04-13
+date = 2026-04-11
 draft = false
 hideFromHomePage = true
 weight = 2
