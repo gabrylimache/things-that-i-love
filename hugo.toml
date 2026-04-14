@@ -1,14 +1,17 @@
-baseURL = "https://gabrylimache.github.io/tastierazze"
+baseURL = "https://gabrylimache.github.io/tastierazze/"
 languageCode = "it-it"
 title = "Tastierazze"
-theme = "PaperMod"
+theme = "stack"
 
 [params]
-  homeInfoParams = {Title = "Ciao! 👋", Content = "Benvenuto nel mio blog"}
+  homeInfoParams = {Title = "Ciao!", Content = "Benvenuto nel mio blog"}
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
   mainSections = ["posts"]
+
+[server]
+  port = 1313
 
 [menu]
   [[menu.main]]
