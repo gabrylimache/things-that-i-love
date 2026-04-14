@@ -7,17 +7,24 @@ weight = 1
 +++
 
 Ciao!
-Io sono Gonza, o meglio mi chiamo Gabriele Limache ed il mio secondo nome è Gonzalo, e nel tempo la versione abbreviata di quest'ultimo è diventato il modo in cui tutti i miei amici mi chiamano.
 
-In questo momento, mentre sto scrivendo, ho 20 anni e vivo sul Lago Maggiore, anche se faccio il pendolare praticamente tutti i giorni andando a Milano per studiare.
-Oltre a suonare, studio Data Analysis in un ITS a Milano per l'appunto, è come una seconda vita ma molto spesso i due percorsi si incontrano, tra informatica e musica, soprattutto per un tastierista.
+Mi chiamo Gabriele Limache.  
+Il mio secondo nome è Gonzalo, e nel tempo la sua versione abbreviata — **Gonza** — è diventata il modo in cui praticamente tutti i miei amici hanno iniziato a chiamarmi.
 
-Sono sempre stato un ragazzo introverso, forse è anche quello il motivo della scelta del mio strumento, che al posto di una chitarra elettrica o di una batteria fa molta meno scena, pur avendo generi e momenti in cui si è al centro dell'attenzione.
+Oggi ho 20 anni e vivo sul Lago Maggiore, anche se passo gran parte delle mie giornate a Milano per studiare.  
+Oltre a suonare, infatti, frequento un ITS in **Data Analysis**: una sorta di seconda vita che, molto spesso, finisce per intrecciarsi con la prima. Informatica e musica, soprattutto per un tastierista, si incontrano più spesso di quanto sembri.
 
-Al contrario però, non sono sempre stato "Gonza": questo infatti è un nome nato verso l'inizio delle mie superiori, quando una mia amica iniziò a chiamarmi così quasi per puro caso. Mi piaceva come nome, e così praticamente tutti quanti iniziarono a chiamarmi in tal modo.
+Sono sempre stato piuttosto introverso.  
+Forse è anche per questo che ho scelto uno strumento che, rispetto a una chitarra elettrica o a una batteria, fa decisamente meno scena — pur avendo generi e momenti in cui ci si ritrova, eccome, al centro dell’attenzione.
 
-Dopo un po' capii che forse potevo trattare questa cosa come una sorta di "rinascita", e senza rendermene conto cambiai leggermente personalità, diventando più estroverso quasi automaticamente.
-Ora lo uso praticamente come nome primario, ma in realtà spesso mi riferisco a Gonza come il mio nome d'arte — quasi una seconda identità che appare quando mi serve.
+In realtà, però, non sono sempre stato *“Gonza”*.
 
-Gonza infatti si concentra molto sul percorso musicale, soprattutto adesso che tutto si sta evolvendo con i progetti che seguo e le persone con cui suono.
+Questo nome è nato più o meno all’inizio delle scuole superiori, quando una mia amica ha iniziato a chiamarmi così quasi per caso.  
+Mi piaceva, e col tempo anche gli altri hanno iniziato a usarlo. Senza accorgermene, era diventato parte di me.
 
+A un certo punto ho capito che potevo viverlo come una sorta di **rinascita**.  
+Da lì è cambiato qualcosa: sono diventato leggermente più estroverso, quasi in automatico, come se quel nome mi permettesse di tirare fuori una parte diversa del mio carattere.
+
+Oggi lo uso praticamente come nome primario, ma spesso penso a Gonza come a un vero e proprio **nome d’arte** — una seconda identità che emerge quando serve.
+
+È la parte di me che si concentra maggiormente sul percorso musicale, soprattutto ora che tutto sta evolvendo attraverso i progetti che seguo e le persone con cui suono.

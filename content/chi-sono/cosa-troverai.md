@@ -6,19 +6,20 @@ hideFromHomePage = true
 weight = 5
 +++
 
-Inizialmente pensavo di utilizzare questo spazio per un esercizio pratico per un corso che seguo, poi mi è venuta in mente l'idea di creare un vero blog — più che altro per me stesso, così da poter tornare qua e riguardare ciò che ho scritto ogni volta che voglio.
+Inizialmente avevo pensato di usare questo spazio come semplice esercizio pratico per un corso che sto seguendo.  
+Col tempo, però, l’idea si è trasformata in qualcosa di più: un vero e proprio blog, pensato soprattutto per me stesso, dove poter tornare a rileggere ciò che ho scritto e tenere traccia del mio percorso.
 
-Parlerò di molte cose, tutto legato alla musica o quasi, nello specifico:
+Qui parlerò di molte cose, quasi tutte legate in qualche modo alla musica. In particolare:
 
-- Canzoni, album o artisti che mi interessano
-- Tastiere, sintetizzatori e funzionalità
-- I progetti a cui faccio parte, e come crescono
+- canzoni, album e artisti che mi interessano;
+- tastiere, sintetizzatori e le loro funzionalità;
+- i progetti a cui partecipo e come evolvono nel tempo.
 
-Ed infine, quello che mi ha convinto del fatto che tutto questo mi servisse: le **Patch** delle mie tastiere.
-Infatti voglio includere:
+C’è però un aspetto che più di tutti mi ha convinto della necessità di questo spazio: le **patch** delle mie tastiere.
 
-- Tutte le patch che creo
-- Come usarle
-- Come modificarle in live
+In questo blog voglio infatti raccogliere:
+- tutte le patch che creo;
+- suggerimenti su come usarle;
+- idee su come modificarle e adattarle al live.
 
-Tutto questo nella sezione **Patches** di questo blog.
+Tutto questo troverà spazio nella sezione **Patches**, che diventerà una sorta di archivio personale — e, spero, anche qualcosa di utile per chi passerà di qui.

@@ -1,24 +1,30 @@
 +++
-title = 'Lo Strumento'
+title = 'Lo strumento'
 date = 2026-04-13
 draft = false
 hideFromHomePage = true
 weight = 2
 +++
 
-Pur avendo iniziato il percorso musicale fin da piccolo, il pianoforte non è stata la prima scelta: ho infatti cantato per qualche anno nel coro delle voci bianche della mia città, per poi provare la chitarra, e solo infine, quando ormai avevo capito che entrambi non facevano per me, provai lezioni di piano.
+Pur avendo iniziato il mio percorso musicale fin da piccolo, il pianoforte non è stato la prima scelta.  
+Per qualche anno ho cantato nel coro di voci bianche della mia città, poi ho provato la chitarra. Solo in seguito — quando avevo ormai capito che nessuna delle due faceva davvero per me — ho iniziato a prendere lezioni di pianoforte.
 
-I primi quattro anni non sono stati il massimo, mi sono sicuramente serviti per capire cosa mi piaceva e cosa no, ma tra il poco impegno ed altre problematiche, non ho mai dato più del minimo necessario.
-Fu solo quando iniziai le superiori che mi scattò la scintilla.
+I primi quattro anni non sono stati il massimo.  
+Mi sono sicuramente serviti per capire cosa mi piacesse e cosa no, ma tra poco impegno e altre problematiche non sono mai andato oltre il minimo indispensabile.  
+La vera scintilla è scattata solo con l’inizio delle scuole superiori.
 
-Da quel momento mi sono impegnato sempre di più, sperimentando con gruppi forniti dalla mia scuola di musica le tecniche e la teoria imparata a lezione.
+Da quel momento ho iniziato a impegnarmi sempre di più, sperimentando nei gruppi messi a disposizione dalla mia scuola di musica e applicando, sul campo, tecniche e teoria studiate a lezione.
 
-Col tempo mi appassionai più alla tastiera che al pianoforte, cercando di trovare modi per rendere interessanti i miei suoni e di replicare quelli di varie canzoni sulla prima vera tastiera che ho provato, una **Yamaha MODX 6**, presa dalla scuola di musica per tutte le band e i tastieristi.
+Col tempo mi sono scoperto sempre più interessato alla **tastiera** piuttosto che al pianoforte.  
+Ho iniziato a cercare modi per rendere i miei suoni più interessanti e a replicare quelli di varie canzoni sulla prima vera tastiera che abbia mai suonato: una **Yamaha MODX 6**, acquistata dalla scuola di musica per tutte le band e i tastieristi.
 
-Ora mi piace replicare suoni di varie canzoni con le mie tastiere, che cerco di sfruttare al massimo per tutti i progetti che seguo. Ho infatti preso ormai un anno fa una **Yamaha CK88** come prima vera tastiera, e devo dire che sono più che soddisfatto dei risultati.
+Oggi mi diverte molto ricreare suoni di canzoni diverse con le mie tastiere, cercando di sfruttarle al massimo in tutti i progetti che seguo.  
+Circa un anno fa ho acquistato una **Yamaha CK88** come prima tastiera personale, e posso dire di essere più che soddisfatto dei risultati.
 
-Recentemente però sentivo il bisogno di imparare molto meglio il mondo dei sintetizzatori, e dopo varie considerazioni ho optato per la **Nord Wave 2**, che sicuramente è un po' "overkill" per il mio livello attuale, ma sono consapevole anche che una tastiera come quella insieme alla Yamaha mi bastano per coprire anni ed anni di progetti musicali — quindi una grande spesa per un lungo tempo.
+Di recente, però, ho sentito il bisogno di approfondire seriamente il mondo dei sintetizzatori.  
+Dopo varie valutazioni ho scelto una **Nord Wave 2**, consapevole che sia probabilmente un po’ *overkill* rispetto al mio livello attuale. Allo stesso tempo so che, affiancata alla Yamaha, è una tastiera che può accompagnarmi per anni e anni di progetti musicali — una spesa importante, ma pensata sul lungo periodo.
 
-Per ora con la Nord ci sto ancora facendo conoscenza, imparando tramite discussioni e video online il mondo dei sintetizzatori, e sperimentando il più possibile cercando di inseguire il mondo del Sound Design.
+Per ora sono ancora nella fase di scoperta: sto imparando attraverso discussioni e video online, esplorando il mondo dei sintetizzatori e sperimentando il più possibile, cercando di avvicinarmi al **sound design**.
 
-Mi definisco ufficialmente un tastierista più che pianista, anche per evitare eventuali aspettative sui generi che suonerò se mi chiedono di sentire qualcosa in giro.
+Oggi mi definisco senza problemi un **tastierista** più che un pianista.  
+Anche perché questo mi permette di evitare aspettative precise sui generi che potrei suonare, nel momento in cui qualcuno mi chiede di sentire qualcosa in giro.

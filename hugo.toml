@@ -2,9 +2,18 @@ baseURL = "https://gabrylimache.github.io/"
 languageCode = "it-it"
 title = "Tastierazze"
 theme = "PaperMod"
+mainSections = ["posts"]
 
 [params]
-  homeInfoParams = {Title = "Ciao! Sono Gonza", Content = "Benvenuto tra qualche mio pensiero"}
+  
+  [params.homeInfoParams]
+  Title = "Musica, appunti e sperimentazione"
+  Content = """
+  Uno spazio personale dove raccolgo appunti, riflessioni ed esperimenti in ambito musicale: suoni, patch, workflow e tutto ciò che mi aiuta a creare, ricordare e migliorare nel tempo.
+
+  *Non sono un esperto: scrivo per imparare, sperimentare e condividere il mio percorso.*
+  """
+  
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true

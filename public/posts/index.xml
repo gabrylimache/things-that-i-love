@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tastierazze</title>
+    <title>Il mio blog on Tastierazze</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Tastierazze</description>
+    <description>Recent content in Il mio blog on Tastierazze</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Tue, 14 Apr 2026 17:03:35 +0200</lastBuildDate>
@@ -14,17 +14,19 @@
       <pubDate>Tue, 14 Apr 2026 17:03:35 +0200</pubDate>
       <guid>http://localhost:1313/posts/primavera-e-frah-quintale/</guid>
       <description>&lt;p&gt;Ieri, 13 Aprile, sono andato al concerto di Frah Quintale all&amp;rsquo;Unipol Forum di Assago, devo dire rispetto ai generi che ascolto di solito è un po&amp;rsquo; un outlier, ma rimane comunque presente negli anni, tornando sempre in primavera, tanto che ormai lo associo d&amp;rsquo;istinto. Sarà per il vibe, ma per me Primavera = Frah Quintale, non solo lui ovviamente, però è uno dei principali.&lt;/p&gt;
-&lt;p&gt;Fra l&amp;rsquo;altro la primavera è la mia stagione preferita, torna il caldo e pensi già all&amp;rsquo;estate, ti viene proprio voglia di viaggiare e rilassarti, arriva un po&amp;rsquo; quella leggerezza delle vacanze, anche se quest&amp;rsquo;anno le mie dureranno poco per i troppi impegni.&lt;/p&gt;</description>
+&lt;p&gt;Tra l&amp;rsquo;altro la primavera è la mia stagione preferita, torna il caldo e pensi già all&amp;rsquo;estate, ti viene proprio voglia di viaggiare e rilassarti, arriva un po&amp;rsquo; quella leggerezza delle vacanze, anche se quest&amp;rsquo;anno le mie dureranno poco per i troppi impegni.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tutto Pronto</title>
+      <title>Tutto pronto</title>
       <link>http://localhost:1313/posts/tutto-pronto/</link>
       <pubDate>Mon, 13 Apr 2026 17:22:49 +0200</pubDate>
       <guid>http://localhost:1313/posts/tutto-pronto/</guid>
-      <description>&lt;p&gt;Finalmente ho finito il setup di tutto il design, sono contento di come tutto viene visualizzato quindi posso effettivamente iniziare a scrivere.&lt;/p&gt;
-&lt;p&gt;Questo primo post sarà molto corto, ma volevo parlare di come questo progetto secondo me può farmi crescere.&lt;/p&gt;
-&lt;h2 id=&#34;come-mai&#34;&gt;Come mai?&lt;/h2&gt;
-&lt;p&gt;Non avrei mai pensato di voler scrivere un blog, l&amp;rsquo;idea è sorta da un bisogno che inizialmente si poteva raggiungere con semplici video: ricordarmi come usare i miei stessi suoni per le varie canzoni.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Finalmente ho terminato il setup di tutto il design.&lt;br&gt;
+Sono davvero soddisfatto di come il sito viene visualizzato e, finalmente, posso iniziare a scrivere.&lt;/p&gt;
+&lt;p&gt;Questo primo post sarà breve, ma tengo comunque a spiegare perché questo progetto, secondo me, può aiutarmi a crescere.&lt;/p&gt;
+&lt;h2 id=&#34;perché-un-blog&#34;&gt;Perché un blog?&lt;/h2&gt;
+&lt;p&gt;Non avrei mai pensato di voler scrivere un blog.&lt;br&gt;
+L’idea è nata da un’esigenza molto semplice: ricordarmi come usare &lt;strong&gt;i miei stessi suoni&lt;/strong&gt; nelle varie canzoni.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

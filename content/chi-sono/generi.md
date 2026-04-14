@@ -1,22 +1,32 @@
 +++
-title = 'I Generi'
+title = 'I generi'
 date = 2026-04-13
 draft = false
 hideFromHomePage = true
 weight = 3
 +++
 
-Durante quei 4 anni di leggerezza iniziali studiavo classica, ovviamente fino ad un certo punto, anche perché dovevo imparare le basi ancora ed ero un ragazzino svogliato.
+Durante i primi quattro anni, vissuti con una certa leggerezza, ho studiato musica classica.  
+Ovviamente solo fino a un certo punto: dovevo ancora imparare le basi ed ero un ragazzino piuttosto svogliato.
 
-Quando finalmente capii che era il mio strumento, la voglia di suonare musica classica passò molto in fretta, forse anche per creare distacco tra i due atteggiamenti.
-Adesso la ascolto occasionalmente: non sono un appassionato ed apprezzo quel mondo, ma suonarla non fa più al caso mio.
+Quando finalmente capii che quello era davvero *il mio strumento*, la voglia di suonare musica classica passò in fretta.  
+Probabilmente anche per creare una sorta di distacco tra due atteggiamenti molto diversi.  
+Oggi la ascolto ogni tanto: rispetto e apprezzo quel mondo, ma suonarla non fa più per me.
 
-Durante il resto del mio percorso mi sono sempre trovato a fare Rock/Pop, avendo anche una band dove scrivevamo inediti — era bello, ma ancora non avevo trovato il mio, anche se il genere lo suono volentieri, soprattutto con i progetti a cui partecipo adesso.
+Nel resto del mio percorso mi sono ritrovato quasi sempre a suonare **rock e pop**.  
+Ho avuto anche una band con cui scrivevamo inediti: era bello, stimolante, ma sentivo di non aver ancora trovato qualcosa che mi rappresentasse davvero.  
+Rimane comunque un contesto che mi piace e che suono volentieri, soprattutto nei progetti a cui partecipo oggi.
 
-Infine, solo 2 anni fa, mi iniziai ad interessare alla musica jazz, passando poi ad ascoltare anche funk e fusion, prendendo spesso come riferimento **Herbie Hancock**, che mi ha poi spostato ai generi più elettronici come l'album *Head Hunters*, che grazie al sound più moderno mi ha ancora più incuriosito riguardo ai sintetizzatori, portandomi a studiare la sintesi sottrattiva ed, a grandi linee, anche la sintesi FM.
+Solo un paio d’anni fa mi sono avvicinato al **jazz**, per poi iniziare ad ascoltare anche funk e fusion.  
+Uno dei riferimenti principali è stato **Herbie Hancock**, che mi ha poi spinto verso sonorità più elettroniche — in particolare con *Head Hunters*.  
+Quel sound più moderno ha acceso definitivamente la mia curiosità per i sintetizzatori, portandomi ad avvicinarmi alla **sintesi sottrattiva** e, almeno a grandi linee, anche alla **sintesi FM**.
 
-Poi mi sono spostato in un mondo più tranquillo, il soul e subito dopo il neo-soul, che è attualmente il genere che ascolto di più, trovandomi in artisti come **D'Angelo**, **J Dilla** e qualche altro dei Soulquarians. Durante quel periodo, ho anche trovato l'artista al quale ora aspiro in termini di sound e modalità di pensiero riguardo alla teoria musicale, oltre che alla tecnica.
+Successivamente mi sono spostato verso mondi più tranquilli: prima il **soul**, poi il **neo-soul**, che oggi è probabilmente il genere che ascolto di più.  
+Mi ritrovo molto in artisti come **D’Angelo**, **J Dilla** e altri membri dei *Soulquarians*.  
+In quel periodo ho anche trovato l’artista a cui ora aspiro maggiormente, sia per sound che per modo di pensare la musica — dalla teoria alla tecnica.
 
-Parlo di **Kiefer**, un tastierista che più che canzoni crea beat — brani strumentali prodotti da lui stesso nel quale la relazione tra accordi e melodie è messa in continua discussione a mio parere, il che rende la melodia e le improvvisazioni in ogni canzone un viaggio nuovo interessantissimo.
+Parlo di **Kiefer**: un tastierista che più che canzoni crea *beat*.  
+I suoi brani strumentali, prodotti interamente da lui, mettono continuamente in discussione la relazione tra accordi e melodie, rendendo ogni improvvisazione e ogni ascolto un viaggio diverso e sempre interessante.
 
-Avrò modo di parlarne meglio in futuro, dato che fa molti live con il suo trio, e spero che venga anche in Europa — ma essendo il genere ed il mercato quello che è, dubito fortemente, ma non si sa mai!
+Avrò sicuramente modo di parlarne meglio in futuro, anche perché suona spesso dal vivo con il suo trio.  
+Spero prima o poi di poterlo vedere anche in Europa — anche se, conoscendo il genere e il mercato, non è così scontato. Ma non si sa mai.
