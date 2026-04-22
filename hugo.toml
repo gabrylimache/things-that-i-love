@@ -19,6 +19,9 @@ mainSections = ["posts"]
   ShowPostNavLinks = true
   mainSections = ["posts"]
   [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/gabriele-gonzalo-limache-reategui-760a84313"
+  [[params.socialIcons]]
     name = "instagram"
     url = "https://instagram.com/gabry_gonza"
   [[params.socialIcons]]
